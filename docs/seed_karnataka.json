@@ -1,0 +1,47 @@
+[
+  {
+    "id": "temple_ka_0001",
+    "name": "Sri Chamundi Hill Temple",
+    "alternate_names": ["Chamundeshwari Temple"],
+    "location": {"lat": 12.3036, "lng": 76.6536, "address":"Chamundi Hill, Mysuru", "state":"Karnataka", "district":"Mysuru"},
+    "deity": "Chamundeshwari",
+    "type": "Hindu",
+    "short_description": "Historic hilltop temple dedicated to the goddess Chamundeshwari.",
+    "long_description": "Located atop Chamundi Hill in Mysuru, the temple is an important pilgrimage site with annual festivities.",
+    "images": ["https://example.org/images/chamundi1.jpg"],
+    "timings": {"regular": {"open":"06:00","close":"20:00"}},
+    "contact": {"phone":"+91-821-xxxxxxx"},
+    "amenities": {"parking": true, "wheelchair_accessible": false},
+    "provenance": [{"source":"https://mysuru.nic.in/temples/chamundi","fetched_at":"2025-11-17T09:12:00Z","confidence":0.95}],
+    "moderation": {"status":"verified","verified_by":"admin_01","verified_at":"2025-11-17T10:00:00Z"},
+    "last_updated": "2025-11-17T09:12:00Z"
+  },
+  {
+    "id": "temple_ka_0002",
+    "name": "Sri Virupaksha Temple",
+    "alternate_names": ["Virupaksha"],
+    "location": {"lat": 15.3167, "lng": 76.0157, "address":"Hampi Bazaar, Hampi", "state":"Karnataka", "district":"Ballari"},
+    "deity": "Shiva",
+    "type": "Hindu",
+    "short_description": "Part of the Hampi UNESCO site, one of the oldest functioning temples.",
+    "images": ["https://example.org/images/virupaksha.jpg"],
+    "timings": {"regular": {"open":"06:00","close":"18:00"}},
+    "provenance": [{"source":"https://whc.unesco.org/en/list/241","fetched_at":"2025-11-17T09:20:00Z","confidence":0.9}],
+    "moderation": {"status":"verified","verified_by":"admin_01","verified_at":"2025-11-17T10:05:00Z"},
+    "last_updated": "2025-11-17T09:20:00Z"
+  },
+  {
+    "id": "temple_ka_0003",
+    "name": "Gavi Gangadhareshwara Temple",
+    "alternate_names": [],
+    "location": {"lat": 12.9711, "lng": 77.5806, "address":"Sampangi Rama Nagar, Bengaluru", "state":"Karnataka", "district":"Bengaluru"},
+    "deity": "Shiva",
+    "type": "Hindu",
+    "short_description": "Rock-cut cave temple famous for stone cut architecture and monolithic features.",
+    "images": ["https://example.org/images/gavi_gangadhareshwara.jpg"],
+    "timings": {"regular": {"open":"06:30","close":"19:00"}},
+    "provenance": [{"source":"https://bengaluru.gov.in/temples/gavi","fetched_at":"2025-11-17T09:30:00Z","confidence":0.88}],
+    "moderation": {"status":"user_unverified"},
+    "last_updated": "2025-11-17T09:30:00Z"
+  }
+]
